@@ -1,6 +1,6 @@
 // variables to keep tract of quiz
 var time = 75
-var timerId;
+var timerId
 var currentQuestionIndex = 0
 
 var timeEl = document.querySelector("#time");
